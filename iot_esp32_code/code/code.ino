@@ -29,8 +29,8 @@
 #include "soc/rtc_cntl_reg.h"
 
 // ── WiFi ──────────────────────────────────────────────────────────
-const char* WIFI_SSID = "Aixor Studio HQ";
-const char* WIFI_PASS = "EFu.Wk*rHE0>?d^JZ";
+const char* WIFI_SSID = "WIFI_PASSWORD";
+const char* WIFI_PASS = "PASSWORD";
 
 // ── MQTT ──────────────────────────────────────────────────────────
 const char* MQTT_BROKER = "192.168.1.5";
