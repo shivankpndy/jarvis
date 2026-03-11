@@ -90,6 +90,4 @@ contacts.json
 # ── rclone config (has OAuth tokens) ─────────────────────────────
 rclone.conf
 zepto_session
-jarvis.py
-crew_orchestrator.py
 mmt_session/
