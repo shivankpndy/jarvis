@@ -1,0 +1,95 @@
+# ── Environment & Secrets ─────────────────────────────────────────
+.env
+*.env
+.env.*
+
+# ── Python ────────────────────────────────────────────────────────
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ── Piper TTS (large binaries) ────────────────────────────────────
+piper_extracted/
+voices/
+
+# ── Telegram session (sensitive auth token) ───────────────────────
+*.session
+*.session-journal
+jarvis_telegram.session
+
+# ── Memory & personal data ────────────────────────────────────────
+memory/
+snapshots/
+downloads/
+
+# ── Node / Dashboard ──────────────────────────────────────────────
+dashboard/node_modules/
+dashboard/build/
+dashboard/.env
+dashboard/.env.local
+dashboard/.env.development.local
+dashboard/.env.test.local
+dashboard/.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Workspace (generated files) ───────────────────────────────────
+workspace/
+
+# ── OS files ──────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# ── IDE / Editor ──────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ── Logs ──────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Compiled / Binary ─────────────────────────────────────────────
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ── Temp files ────────────────────────────────────────────────────
+*.tmp
+*.temp
+tmp/
+temp/
+
+# ── Large media ───────────────────────────────────────────────────
+*.wav
+*.mp3
+*.mp4
+*.avi
+
+# ── Contacts (personal data) ─────────────────────────────────────
+contacts.json
+
+# ── rclone config (has OAuth tokens) ─────────────────────────────
+rclone.conf
+zepto_session
+jarvis.py
+crew_orchestrator.py
+mmt_session/
