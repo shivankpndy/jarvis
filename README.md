@@ -5,7 +5,7 @@
 > **Fully Local. Completely Offline. Zero Cloud.**
 > Built by Shivank Pandey 
 
-JARVIS is a voice-controlled personal AI operating system that runs entirely on your own hardware — no API keys for the core brain, no cloud, no subscriptions. Inspired by Tony Stark's AI assistant, JARVIS manages your digital life, physical environment, and communications through natural conversation, powered by local LLMs via Ollama.
+JARVIS is a voice-controlled personal AI operating system that runs entirely on your own hardware, no API keys for the core brain, no cloud, no subscriptions. Inspired by Tony Stark's AI assistant, JARVIS manages your digital life, physical environment, and communications through natural conversation, powered by local LLMs via Ollama.
 
 ---
 
@@ -117,6 +117,7 @@ Hey JARVIS → Find flights from Delhi to Mumbai on Friday
 - Node.js 18+ (for dashboard)
 - Arduino IDE + ESP32 board support
 
+``` python
 pip install faster-whisper pyaudio ollama SpeechRecognition
 pip install crewai crewai-tools litellm
 pip install telethon python-dotenv paho-mqtt pyserial schedule
