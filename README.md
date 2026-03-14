@@ -36,10 +36,6 @@ JARVIS is a voice-controlled personal AI operating system that runs entirely on 
 
 
 ---
-### Billing of Items 
-![billing of items](bom.png)
-
----
 ## 🚀 Installation
 
 ### Prerequisites
