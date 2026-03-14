@@ -74,6 +74,8 @@ JARVIS is a voice-controlled personal AI operating system that runs entirely on 
 - Phone charger / power bank (ESP32 power)
 
 ### ESP32-CAM Wiring
+![wiring](circuit_image.png)
+
 
 | GPIO | Component | Function |
 |------|-----------|----------|
@@ -85,6 +87,8 @@ JARVIS is a voice-controlled personal AI operating system that runs entirely on 
 
 
 ---
+### Billing of Items 
+![billing of items](bom.png)
 
 ## 📷 Camera System
 
