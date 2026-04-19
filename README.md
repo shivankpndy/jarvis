@@ -1,9 +1,9 @@
 ![JARVIS Banner](banner.png)
 
-# JARVIS — Personal AI Operating System
+# JARVIS — Personal AI Operating System (vERSION 2 in dev)
 
 > **Fully Local. Completely Offline. Zero Cloud.**
-> Built by Shivank Pandey for Hack Club Manifesto Hackathon • March 2026
+> Built by Shivank Pandey 
 
 JARVIS is a voice-controlled personal AI operating system that runs entirely on your own hardware — no API keys for the core brain, no cloud, no subscriptions. Inspired by Tony Stark's AI assistant, JARVIS manages your digital life, physical environment, and communications through natural conversation, powered by local LLMs via Ollama.
 
